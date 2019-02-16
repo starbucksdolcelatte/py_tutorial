@@ -10,7 +10,7 @@ print(a[2], end = '')
 print(a[0:3]) #slicing
 print(type(a))
 print(dir(a))
-name = '서윤'
+name = '밍밍'
 age = 46
 print('제 이름은 {} 입니다. 제 나이는 {} 입니다. '.format(name, age))
 print('제 이름은 {1} 입니다. 제 나이는 {0} 입니다. '.format(name, age))
